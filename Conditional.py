@@ -13,4 +13,4 @@ elif marks>=40:
 elif marks>=33:
     print("You got D")
 else:
-    print("You are Failed")
+    print("Sorry! You are Failed")
