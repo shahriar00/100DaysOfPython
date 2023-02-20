@@ -1,4 +1,3 @@
-
 sumation = 0
 number = int(input("Enter any number:"))
 for x in range(1,11):
