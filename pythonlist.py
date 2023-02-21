@@ -4,6 +4,7 @@ ins = fruitlist.append("Pineapple")
 mylist = fruitlist.copy()
 
 print(fruitlist)
+
 # print(fruitlist.reverse())
 # print(fruitlist.pop())
 # print(ins)
