@@ -4,7 +4,6 @@ def myfunction():
 
 myfunction()
 
-
 def parameter(fname, lname):
     print(fname + " " + lname)
 
