@@ -15,6 +15,7 @@ print(copy_item)
 print(length)
 print(remove_items)
 
+
 print("Fruits List:\n")
 for x in fruits:
     print(x)
