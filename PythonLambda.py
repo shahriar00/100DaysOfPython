@@ -12,7 +12,6 @@ print(z(1, 3, 5))
 def myfunction(n):
     return lambda a: a * n
 
-
 mydoubler = myfunction(2)
 
 print(mydoubler(23))
