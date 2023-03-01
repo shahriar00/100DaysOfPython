@@ -33,6 +33,7 @@ num2 = [1,2,3,4,5]
 
 number = np.array([[1,2,3,4],[6,7,8,9],[11,22,44,66]])
 number1 = np.array([[1,65,6,7],[2,3,4,5],[7,8,9,44]])
+
 # print(number)
 # print(number[1])
 # print("Transpose Matrix:\n")
