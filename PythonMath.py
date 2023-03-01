@@ -15,6 +15,7 @@ print(square)
 celing1 = math.ceil(3.5)
 celing2 = math.floor(8.2)
 pinum = math.pi
+
 print(celing1)
 print(celing2)
 print(pinum)
