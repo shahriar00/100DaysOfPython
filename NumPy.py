@@ -39,4 +39,5 @@ number1 = np.array([[1,65,6,7],[2,3,4,5],[7,8,9,44]])
 # print("Transpose Matrix:\n")
 # print(number.transpose())
 # print(number.dot(number1))
+
 print(np.arange(10,20))
