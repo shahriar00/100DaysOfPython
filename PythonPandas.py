@@ -21,6 +21,7 @@ data1 = {
     "age":[32,22,55],
     "address":["Dhaka","Rajshai","Sylhet"]
 }
+
 mydata1 = pd.DataFrame(data1,index=["name","age","address"])
 print(mydata1.loc["age"])
 
