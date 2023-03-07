@@ -12,6 +12,7 @@ df = pd.read_csv('data.csv')
 # x = df["Calories"].median()
 # x = df["Calories"].mode()
 # df["Calories"].fillna(x, inplace = True)
+
 # print(df.to_string())
 
 # Data of Wrong Format
