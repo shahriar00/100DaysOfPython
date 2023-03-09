@@ -8,5 +8,6 @@ for x in range(1,11):
 while number<10:
     sumation = sumation+number
     number = number+1
+    
 print(sumation)
 
