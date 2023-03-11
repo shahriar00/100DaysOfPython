@@ -17,7 +17,7 @@ import numpy as np
 # plt.ylabel('Total')
 # plt.title("Data titile")
 # plt.grid(axis=y)
-# # plt.grid()
+# plt.grid()
 # plt.show()
 
 a = np.array([2,7,3,7,2,8,10])
