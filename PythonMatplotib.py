@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+
 # xaxis = np.array([0,155])
 # yaxis = np.array([0,56])
 #
@@ -16,12 +17,13 @@ import numpy as np
 # plt.ylabel('Total')
 # plt.title("Data titile")
 # plt.grid(axis=y)
-# # plt.grid()
+# plt.grid()
 # plt.show()
 
 a = np.array([2,7,3,7,2,8,10])
 b = np.array([4,5,1,2,7,8,3])
 c = np.random.normal(2,33,333)
+
 # plt.scatter(a,b,color = 'red')
 # plt.bar(a,b,color = "red")
 # plt.barh(a,b,color = 'hotpink')
