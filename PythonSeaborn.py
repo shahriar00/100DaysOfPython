@@ -16,5 +16,6 @@ sns.displot(data=tips,x='smoker')
 
 data = np.random.randint(low=10,high=100,size=(10,10))
 hm = sns.heatmap(data,vmin=30,vmax=80)
+
 plt.show()
 
