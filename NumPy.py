@@ -36,6 +36,7 @@ number1 = np.array([[1,65,6,7],[2,3,4,5],[7,8,9,44]])
 
 # print(number)
 # print(number[1])
+
 # print("Transpose Matrix:\n")
 # print(number.transpose())
 # print(number.dot(number1))
