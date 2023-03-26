@@ -23,8 +23,8 @@ df = pd.read_csv('data.csv')
 # Wrong Data
 # df.loc[7, 'Duration'] = 45
 # for x in df.index:
-#   if df.loc[x, "Duration"] > 120:
-#     df.loc[x, "Duration"] = 120
+# if df.loc[x, "Duration"] > 120:
+# df.loc[x, "Duration"] = 120
 
 # Discovering Duplicates
 # df.duplicated()
