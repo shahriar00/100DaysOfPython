@@ -33,5 +33,6 @@ c = np.random.normal(2,33,333)
 d = np.array([33,22,55,66,77])
 mylabels = ['apple','banana','mango','pineapple','graps']
 plt.pie(d,labels=mylabels)
+
 plt.legend(title = 'Five fruits')
 plt.show()

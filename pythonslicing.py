@@ -1,4 +1,5 @@
 message = "Hello world"
+
 # message[start:stop:step]
 print(message[3:5])
 print(message[2:6:2])

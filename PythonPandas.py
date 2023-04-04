@@ -8,6 +8,7 @@ mydata = {
     'car':["volvo","vr","audy"],
     'price':[222,444,555]
 }
+
 myvar = pd.DataFrame(mydata)
 print(myvar)
 
@@ -58,5 +59,6 @@ json_data = {
     "4":148,
     "5":127
   },}
+
 myjason=pd.DataFrame(json_data)
 print(myjason)
