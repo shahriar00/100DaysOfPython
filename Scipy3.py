@@ -10,9 +10,7 @@ arr = np.array([
 ])
 
 newarr = csr_matrix(arr)
-
 print(connected_components(newarr))
-
 diarray = csr_matrix(arr)
 print(dijkstra(diarray,return_predecessors=True,indices=0))
 
