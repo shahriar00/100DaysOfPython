@@ -2,7 +2,6 @@ import numpy as np
 from scipy.spatial import Delaunay
 from scipy.spatial import ConvexHull
 import matplotlib.pyplot as plt
-
 points = np.array([
   [2, 4],
   [3, 4],
