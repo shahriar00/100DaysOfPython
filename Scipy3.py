@@ -10,9 +10,7 @@ arr = np.array([
 ])
 
 newarr = csr_matrix(arr)
-
 print(connected_components(newarr))
-
 diarray = csr_matrix(arr)
 print(dijkstra(diarray,return_predecessors=True,indices=0))
 
@@ -27,6 +25,7 @@ print(bellman_ford(barr,return_predecessors=True,indices=0))
 
 from scipy.sparse.csgraph  import depth_first_order
 darr = csr_matrix(arr)
+
 print(depth_first_order(darr,1))
 
 from scipy.sparse.csgraph import breadth_first_order
