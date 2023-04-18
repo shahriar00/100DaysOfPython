@@ -1,4 +1,5 @@
 import numpy as np
+
 from scipy.spatial import Delaunay
 from scipy.spatial import ConvexHull
 import matplotlib.pyplot as plt
