@@ -1,7 +1,6 @@
 from scipy import constants
 print(constants.pi)
 print(dir(constants))
-
 print(constants.yotta)    #1e+24
 print(constants.zetta)    #1e+21
 print(constants.exa)      #1e+18

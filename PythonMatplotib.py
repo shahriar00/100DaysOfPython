@@ -19,7 +19,6 @@ import numpy as np
 # plt.grid(axis=y)
 # plt.grid()
 # plt.show()
-
 a = np.array([2,7,3,7,2,8,10])
 b = np.array([4,5,1,2,7,8,3])
 c = np.random.normal(2,33,333)
