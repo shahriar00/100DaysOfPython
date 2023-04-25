@@ -15,5 +15,4 @@ io.savemat('arr.mat', {"vec": arr})
 
 # Import:
 mydata = io.loadmat('arr.mat')
-
 print(mydata)
