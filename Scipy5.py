@@ -5,7 +5,6 @@ arr = np.arange(10)
 
 io.savemat('arr.mat', {"vec": arr})
 
-
 from scipy import io
 import numpy as np
 
@@ -16,5 +15,4 @@ io.savemat('arr.mat', {"vec": arr})
 
 # Import:
 mydata = io.loadmat('arr.mat')
-
 print(mydata)
