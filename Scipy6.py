@@ -10,7 +10,6 @@ newarr = interp_func(np.arange(2.1, 3, 0.1))
 
 print(newarr)
 
-
 from scipy.interpolate import UnivariateSpline
 import numpy as np
 
