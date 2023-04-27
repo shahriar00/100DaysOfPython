@@ -22,7 +22,6 @@ newarr = interp_func(np.arange(2.1, 3, 0.1))
 
 print(newarr)
 
-
 from scipy.interpolate import Rbf
 import numpy as np
 
