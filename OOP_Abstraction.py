@@ -8,7 +8,6 @@ class shape(ABC):
         self.dim1 = dim1,
         self.dim2 = dim2
 
-
     @abstractmethod
     def area(self):
         pass
