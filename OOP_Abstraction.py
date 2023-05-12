@@ -1,5 +1,4 @@
 from abc import ABC,abstractmethod
-
 class shape(ABC):
     dim1 = ""
     dim2 = ""
