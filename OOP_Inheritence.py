@@ -10,6 +10,5 @@ class Triangle(shape,Rectangle):
     pass
 
 
-
 t = Triangle()
 t.area()
