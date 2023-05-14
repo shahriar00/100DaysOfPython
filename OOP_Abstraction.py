@@ -15,6 +15,7 @@ class Rectangle(shape):
         areadata = "This is a area calculator"
         print(areadata)
 
+        
 r = Rectangle(2,1)
 r.area()
 
