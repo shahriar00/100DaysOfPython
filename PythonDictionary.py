@@ -31,7 +31,6 @@ dictionary = {
 # print(dictionary)
 
 # Nested Dictionary......
-
 nest = {
     "Bird1":{
         "name":"Bird",
