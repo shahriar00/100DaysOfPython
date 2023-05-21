@@ -8,6 +8,5 @@ class myclass:
 p = myclass("John",33)
 
 print(p)
-
 # print(p.name)
 # print(p.age)
