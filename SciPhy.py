@@ -56,8 +56,6 @@ print(constants.arcminute)  #0.0002908882086657216
 print(constants.arcsec)     #4.84813681109536e-06
 print(constants.arcsecond)  #4.84813681109536e-06
 
-
-
 print(constants.minute)      #60.0
 print(constants.hour)        #3600.0
 print(constants.day)         #86400.0
