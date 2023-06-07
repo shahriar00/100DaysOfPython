@@ -7,6 +7,5 @@ mat = csr_matrix(arr)
 mat.eliminate_zeros()
 print(mat)
 
-
 newarr = csr_matrix(arr)
 print(connected_components((newarr)))
