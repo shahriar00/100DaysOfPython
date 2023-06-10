@@ -11,6 +11,7 @@ points = np.array([
   [4, 1]
 ])
 
+
 simplices = Delaunay(points).simplices
 
 plt.triplot(points[:, 0], points[:, 1], simplices)
