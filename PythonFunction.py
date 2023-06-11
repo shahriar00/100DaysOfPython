@@ -1,7 +1,6 @@
 def myfunction():
     print("This is new function")
 
-
 myfunction()
 
 def parameter(fname, lname):
