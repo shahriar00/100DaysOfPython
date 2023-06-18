@@ -1,6 +1,5 @@
 pystring = "Hello This python string "
 string = "Hello world"
-
 print(pystring)
 print(pystring[2:8])
 print(pystring.split())
