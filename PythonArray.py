@@ -1,5 +1,4 @@
 # Python does not have built-in support for Arrays, but Python Lists can be used instead.
-
 fruits = ["Apple","Orange","Mango","Pineapple"]
 num = [2,3,5,6,7,8]
 
