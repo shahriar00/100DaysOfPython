@@ -6,4 +6,5 @@ print(list[-1])
 print(list[-2])
 
 print(list2[1])
+
 print(list2[-2])
