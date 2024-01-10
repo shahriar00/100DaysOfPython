@@ -1,4 +1,3 @@
-
 # List is a collection which is ordered and changeable. Allows duplicate members.
 # Tuple is a collection which is ordered and unchangeable. Allows duplicate members.
 # Set is a collection which is unordered, unchangeable*, and indexed. No duplicate members.
