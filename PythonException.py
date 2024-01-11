@@ -28,6 +28,7 @@ finally:
     print("It is not a finally block")
 
 # AssertionError	Raised when an assert statement fails.
+
 # AttributeError	Raised when attribute assignment or reference fails.
 # EOFError	Raised when the input() function hits end-of-file condition.
 # FloatingPointError	Raised when a floating point operation fails.
