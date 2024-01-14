@@ -34,3 +34,4 @@ plt.pie(d,labels=mylabels)
 
 plt.legend(title = 'Five fruits')
 plt.show()
+
