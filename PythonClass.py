@@ -6,7 +6,6 @@ class myclass:
        return f"{self.name,self.age}"
 
 p = myclass("John",33)
-
 print(p)
 # print(p.name)
 # print(p.age)
