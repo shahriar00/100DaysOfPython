@@ -13,3 +13,4 @@ class Triangle(shape,Rectangle):
 t = Triangle()
 t.area()
 
+
