@@ -1,4 +1,3 @@
-
 class Bird:
     def intro(self):
         print("There are many types of birds.")
