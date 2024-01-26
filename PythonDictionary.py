@@ -3,6 +3,7 @@
 # Set is a collection which is unordered, unchangeable*, and indexed. No duplicate members.
 # Dictionary is a collection which is ordered** and changeable. No duplicate members.
 
+
 dictionary = {
     "name":"orange",
     "color":"orangecolor",
